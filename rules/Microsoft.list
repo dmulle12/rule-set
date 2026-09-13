@@ -1,9 +1,9 @@
 #! name=Microsoft diversion
-#! Desc=Microsoft 分流规则集
+#! Desc=Microsoft diversion rule set
 #! date=2026-09-13 10:10:00
 #############################################
 
-# 核心域名
+# Core domains
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoft.net
 DOMAIN-SUFFIX,msn.com
@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,outlook.net
 DOMAIN-SUFFIX,hotmail.com
 
-# Azure / 云
+# Azure / Cloud
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azurewebsites.net
@@ -32,14 +32,14 @@ DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,windowsazure.com
 
-# Windows / 系统
+# Windows / System
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,win.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
 
-# GitHub / 开发
+# GitHub / Dev
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubassets.com
@@ -47,18 +47,17 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,vsassets.io
 
-# XBOX / 游戏
+# XBOX / Gaming
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,xboxab.com
 
-# Bing / 搜索
+# Bing / Search
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
-DOMAIN-SUFFIX,msn.com
 
-# LinkedIn / 其他
+# LinkedIn / Other
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,duolingo.com
