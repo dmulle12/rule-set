@@ -62,3 +62,11 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,replicate.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,lmsys.org
+
+# Muse AI（Meta 个人 AI 代理及其他 Muse 产品）
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,muse-ai.cc
+DOMAIN-SUFFIX,museai.im
+DOMAIN-SUFFIX,museai.online
+DOMAIN-SUFFIX,use-muse.com
+DOMAIN-SUFFIX,ai.meta.com
