@@ -2,6 +2,8 @@
 #! Desc=Google 分流规则集
 #! date=2026-09-13 10:10:00
 #############################################
+
+# 核心域名
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
@@ -11,6 +13,10 @@ DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,google.gg
 DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.ltsp.cn
+
+# YouTube 系列
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
@@ -18,18 +24,42 @@ DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gv-gaming.com
+DOMAIN-SUFFIX,yt.be
+
+# 广告 / 统计 / 营销
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googleanalytics.com
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,googleadsserving.cn
+
+# 邮件 / 办公
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,googlemail.com
+DOMAIN-SUFFIX,googleworkspace.com
+
+# 博客 / 文档
 DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,sites.google.com
+DOMAIN-SUFFIX,keep.google.com
+DOMAIN-SUFFIX,calendar.google.com
+
+# 系统 / 硬件
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,googlechrome.com
 DOMAIN-SUFFIX,googlezip.net
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,gmail.cn
+DOMAIN-SUFFIX,play.google.com
+
+# 国家/地区域名
 DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,google.com.tw
 DOMAIN-SUFFIX,google.co.jp
@@ -41,3 +71,8 @@ DOMAIN-SUFFIX,google.co.uk
 DOMAIN-SUFFIX,google.de
 DOMAIN-SUFFIX,google.fr
 DOMAIN-SUFFIX,google.ca
+DOMAIN-SUFFIX,google.co.th
+DOMAIN-SUFFIX,google.co.id
+DOMAIN-SUFFIX,google.co.in
+DOMAIN-SUFFIX,google.com.ph
+DOMAIN-SUFFIX,google.com.vn
