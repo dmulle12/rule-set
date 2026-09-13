@@ -1,29 +1,29 @@
 #! name=ChinaMedia diversion
-#! Desc=中国媒体分流规则集（国内视频/音乐/直播）
+#! Desc=China Media diversion rule set (domestic video/music/live)
 #! date=2026-09-13 10:10:00
 #############################################
 
-# 爱奇艺
+# iQiyi
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,71.am.com
 DOMAIN-SUFFIX,iqiyi-cdn.com
 
-# 腾讯视频
+# Tencent Video
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,v.qq.com
 DOMAIN-SUFFIX,qqvideo.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,tencent-video.com
 
-# 优酷 / 土豆
+# Youku / Tudou
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,youkucdn.com
 DOMAIN-SUFFIX,youku.com.cn
 
-# 芒果TV
+# Mango TV
 DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mgcom.com
 DOMAIN-SUFFIX,mgtvcdn.com
@@ -35,7 +35,7 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,bilibili.cn
 DOMAIN-SUFFIX,bilivideo.cn
 
-# 抖音 / 快手
+# Douyin / Kuaishou
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,amemv.com
@@ -43,33 +43,33 @@ DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,kuaishou.com
 
-# 网易云音乐
+# NetEase Cloud Music
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,netease-music.com
 
-# QQ音乐 / 酷狗 / 酷我
+# QQ Music / Kugou / Kuwo
 DOMAIN-SUFFIX,y.qq.com
 DOMAIN-SUFFIX,qqmusic.com
 DOMAIN-SUFFIX,kg.qq.com
 DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,kuwo.cn
 
-# 咪咕 / 央视
+# Migu / CCTV
 DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,cntv.cn
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
 
-# 搜狐 / 乐视
+# Sohu / Letv
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,letv.com
 DOMAIN-SUFFIX,le.com
 DOMAIN-SUFFIX,letvcdn.com
 
-# 芒果 / 西瓜 / 其他
+# Mango / Xigua / Others
 DOMAIN-SUFFIX,duowan.com
 DOMAIN-SUFFIX,acfun.cn
 DOMAIN-SUFFIX,aixifan.com
