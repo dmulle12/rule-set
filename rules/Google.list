@@ -1,9 +1,9 @@
 #! name=Google diversion
-#! Desc=Google 分流规则集
+#! Desc=Google diversion rule set
 #! date=2026-09-13 10:10:00
 #############################################
 
-# 核心域名
+# Core domains
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.ltsp.cn
 
-# YouTube 系列
+# YouTube family
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gv-gaming.com
 DOMAIN-SUFFIX,yt.be
 
-# 广告 / 统计 / 营销
+# Ads / Analytics / Marketing
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googleadservices.com
@@ -36,12 +36,12 @@ DOMAIN-SUFFIX,googleanalytics.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googleadsserving.cn
 
-# 邮件 / 办公
+# Mail / Office
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,googlemail.com
 DOMAIN-SUFFIX,googleworkspace.com
 
-# 博客 / 文档
+# Blog / Docs
 DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,docs.google.com
@@ -50,7 +50,7 @@ DOMAIN-SUFFIX,sites.google.com
 DOMAIN-SUFFIX,keep.google.com
 DOMAIN-SUFFIX,calendar.google.com
 
-# 系统 / 硬件
+# System / Hardware
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,googlechrome.com
 DOMAIN-SUFFIX,googlezip.net
@@ -59,7 +59,7 @@ DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,gmail.cn
 DOMAIN-SUFFIX,play.google.com
 
-# 国家/地区域名
+# Country / region domains
 DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,google.com.tw
 DOMAIN-SUFFIX,google.co.jp
