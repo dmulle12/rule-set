@@ -1,5 +1,5 @@
 #! name=AIGC diversion
-#! Desc=AI 生成内容分流规则集
+#! Desc=AI Generated Content diversion rule set
 #! date=2026-09-13 10:10:00
 #############################################
 
@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,ai.microsoft.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft.com
 DOMAIN-SUFFIX,edgeservices.bing.com
 
-# 其他 AI 服务（走代理可选，视区域）
+# Other AI services (proxy optional, region dependent)
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,x.ai
