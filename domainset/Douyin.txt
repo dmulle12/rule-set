@@ -1,6 +1,4 @@
-.douyin.com
-.douyinvod.com
 .amemv.com
 .snssdk.com
-.ixigua.com
-.kuaishou.com
+.douyinpic.com
+.douyinvod.com
