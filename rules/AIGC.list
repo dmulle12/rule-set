@@ -1,0 +1,33 @@
+#! name=AIGC diversion
+#! Desc=AI Generate content diversion rule set
+#! date=2026-09-13 10:10:00
+#############################################
+
+# OpenAI / ChatGPT
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.org
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,platform.openai.com
+
+# Claude / Anthropic
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# Google Gemini / AI
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,deepmind.google
+
+# Microsoft Copilot / Bing AI
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,chat.bing.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,ai.microsoft.com
