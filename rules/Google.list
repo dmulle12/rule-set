@@ -1,0 +1,43 @@
+#! name=Google diversion
+#! Desc=Google 分流规则集
+#! date=2026-09-13 10:10:00
+#############################################
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,google.gg
+DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googleanalytics.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,googlemail.com
+DOMAIN-SUFFIX,blogspot.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,googlechrome.com
+DOMAIN-SUFFIX,googlezip.net
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,google.com.tw
+DOMAIN-SUFFIX,google.co.jp
+DOMAIN-SUFFIX,google.co.kr
+DOMAIN-SUFFIX,google.com.sg
+DOMAIN-SUFFIX,google.com.my
+DOMAIN-SUFFIX,google.com.au
+DOMAIN-SUFFIX,google.co.uk
+DOMAIN-SUFFIX,google.de
+DOMAIN-SUFFIX,google.fr
+DOMAIN-SUFFIX,google.ca
