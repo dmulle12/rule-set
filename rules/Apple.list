@@ -1,0 +1,68 @@
+#! name=Apple diversion
+#! Desc=Apple diversion rule set (for overseas use, direct)
+#! date=2026-09-13 10:10:00
+#############################################
+
+# Core domains
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,aaplimg.com
+
+# iCloud
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.net
+DOMAIN-SUFFIX,icloud-int.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mac.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+
+# App Store / iTunes
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,itunesconnect.apple.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,mzqaa.com
+DOMAIN-SUFFIX,phobos.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+
+# Apple Music / TV+ / Media
+DOMAIN-SUFFIX,applemusic.com
+DOMAIN-SUFFIX,music.apple.com
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-SUFFIX,apple.tv
+DOMAIN-SUFFIX,itunes-apple.com
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
+
+# System / Software Update
+DOMAIN-SUFFIX,swcdn.apple.com
+DOMAIN-SUFFIX,swdist.apple.com
+DOMAIN-SUFFIX,swscan.apple.com
+DOMAIN-SUFFIX,download.apple.com
+DOMAIN-SUFFIX,support.apple.com
+DOMAIN-SUFFIX,gs.apple.com
+
+# Developer
+DOMAIN-SUFFIX,developer.apple.com
+DOMAIN-SUFFIX,developer.lm.apple.com
+DOMAIN-SUFFIX,swift.org
+DOMAIN-SUFFIX,swiftui.org
+DOMAIN-SUFFIX,xcode.org
+DOMAIN-SUFFIX,devimages-cdn.apple.com
+
+# iMessage / FaceTime / Push
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,init-p01md.push.apple.com
+DOMAIN-SUFFIX,init-p01st.push.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,courier.push.apple.com
+
+# Other Apple services
+DOMAIN-SUFFIX,mac.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,cdn-api.apple.com
+DOMAIN-SUFFIX,apple-icloud.com
+DOMAIN-SUFFIX,apple-web-int.net
